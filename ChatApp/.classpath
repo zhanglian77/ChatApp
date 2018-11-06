@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ChatApp/src"/>
+	<classpathentry kind="lib" path="ChatApp/postgresql-42.2.5.jar"/>
+	<classpathentry kind="output" path="ChatApp/bin"/>
+</classpath>
